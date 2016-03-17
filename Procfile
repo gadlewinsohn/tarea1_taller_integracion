@@ -1,1 +1,1 @@
-web: python gad.py
+web: python app.py∑
